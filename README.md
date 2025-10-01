@@ -14,20 +14,20 @@ Este repositório contém um projeto de análise exploratória utilizando dados 
    git clone https://github.com/SEU_USUARIO/analise-brasileirao.git
    cd analise-brasileirao
    
-#📌 Tecnologias utilizadas
+# 📌 Tecnologias utilizadas
 
-##Python 3
+## Python 3
 
-##Pandas
+## Pandas
 
-##Matplotlib
+## Matplotlib
 
-##Seaborn
+## Seaborn
 
-##Jupyter Notebook
+## Jupyter Notebook
 
-#✨ Objetivo
+# ✨ Objetivo
 
-##Explorar os dados do Campeonato Brasileiro para identificar padrões, estatísticas e insights relevantes sobre os jogos, times e competições.
+## Explorar os dados do Campeonato Brasileiro para identificar padrões, estatísticas e insights relevantes sobre os jogos, times e competições.
 
-#✍️ Autor: Ygor Benicio
+# ✍️ Autor: Ygor Benicio
